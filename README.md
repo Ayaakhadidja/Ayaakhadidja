@@ -25,7 +25,7 @@ Outside of tech, you'll find me **crocheting 🧶 or cooking 🍳** something de
 ---
 
 ### 📫 Let's Connect!  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)]((https://github.com/Ayaakhadidja)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Ayaakhadidja)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](linkedin.com/in/khadidja-amouche-405031266)  
 
 ---
