@@ -36,12 +36,12 @@ I'm Khadidja, but people call me Ayaa. I'm a passionate developer and a **comput
 
 ## GitHub Stats:
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayaakhadidja&show_icons=true&theme=tokyonight)
 
 
 ## Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayaakhadidja&layout=compact&theme=tokyonight)
 
 
 ## 🎮 Hobbies & Fun Stuff  
