@@ -34,6 +34,16 @@ I'm Khadidja, but people call me Ayaa. I'm a passionate developer and a **comput
 - 🔍 Built a **SIFT detector**  
 - 📊 Worked on **complexity analysis & problem resolution projects**  
 
+## GitHub Stats:
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+
+
+## Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+
+
 ## 🎮 Hobbies & Fun Stuff  
 Outside of tech, you'll find me **crocheting 🧶 or cooking (literally this time) 🍳** something delicious!  
 
