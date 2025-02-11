@@ -5,7 +5,7 @@ I'm Khadidja, but people call me Ayaa. I'm a passionate developer and a **comput
 
 ## 🩷 About Me  
 🔍 **Computer Vision Student** | 🧠 AI & Machine Learning Fan | 🎮 Aspiring Game Coder  
-- Currently diving deep into **machine learning** and looking forward to mastering **deep learning**.  
+- Currently learning **machine learning** and looking forward to dive into **deep learning**.  
 - I enjoy working on **AI-driven projects** and **making pixel art assets for games**.  
 - Tried **web development** in my PFE... turns out, not my thing! 😅  
 
